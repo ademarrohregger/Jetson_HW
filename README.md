@@ -8,14 +8,14 @@
 
 ## Enhanced solution
 
+
+Option 1 - Managed Switch for 1 camera + PoE injector
 | Item | Unit Price (CAD$) | Qty | Total of the item |
 |----------|----------|----------|----------|
 |  [Nvidia Jetson AGX Nano Super Dev Kit](https://nvdam.widen.net/s/zkfqjmtds2/jetson-orin-datasheet-nano-developer-kit-3575392-r2)   | 360.00   | 1   | 360.00|
 | Row 2A   | Row 2B   | Row 2C   | |
-| Row 3A   | Row 3B   | Row 3C   | |
+| [PoE Injector](https://www.amazon.ca/PLUSPOE-Injector-Ethernet-Adapter-Security/dp/B077QGTDLB/ref=asc_df_B077QGTDLB?tag=bingshopdesk-20&linkCode=df0&hvadid=79989562644600&hvnetw=o&hvqmt=e&hvbmt=be&hvdev=c&hvlocint=&hvlocphy=&hvtargid=pla-4583589127526849&psc=1)   | 17.00   | 1  | 17.00 |
+| [5=port manged switch - Netgear](https://www.amazon.ca/NETGEAR-Ethernet-Manageable-Affordable-Connectivity/dp/B07PJ7XZ7X/ref=asc_df_B07PJ7XZ7X?tag=bingshopdesk-20&linkCode=df0&hvadid=80333159863507&hvnetw=o&hvqmt=e&hvbmt=be&hvdev=c&hvlocint=&hvlocphy=&hvtargid=pla-4583932704892960&psc=1) | 30.00 1 | 30.00 |
+| [8-port managed switch - TP link](https://www.amazon.com/Ethernet-Unmanaged-Shielded-Replacement-TL-SG108E/dp/B00K4DS5KU/ref=pd_ci_mcx_pspc_dp_2_t_2?pd_rd_w=CUD7o&content-id=amzn1.sym.cd152278-debd-42b9-91b9-6f271389fda7&pf_rd_p=cd152278-debd-42b9-91b9-6f271389fda7&pf_rd_r=6YS7MXQZRE81B7FD3S26&pd_rd_wg=c7ml7&pd_rd_r=baf8d4d4-4031-47d8-93aa-fddbffda5f64&pd_rd_i=B00K4DS5KU&th=1) | 43,26 | 0 | 0 |
 
 
--
-
-Network
-  
