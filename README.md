@@ -35,6 +35,8 @@
 | Overall Total | | | 713.00 |
 
 ### Extra 
+| Item | Unit Price (CAD$) | Qty | Total of the item |
+|----------|----------|----------|----------|
 | [Mguard 2102](https://www.mouser.ca/ProductDetail/Phoenix-Contact/1357828?qs=Jm2GQyTW%2FbhXSFWLqWG%252BaA%3D%3D&_gl=1*1fnntd1*_ga*NjI1NjAwMzgyLjE3MzU4NDUwNDQ.*_ga_15W4STQT4T*MTczNTg0NTA0NC4xLjEuMTczNTg0NTA2MS40My4wLjA.) | 1,300.00 | 0 | 0 |
 | [Siemens 6GK561](https://ca.wiautomation.com/en/siemens/industrial-communication/6GK56150AA002AA2?msclkid=5a085c9d10151a5be1083bebf70b8176&utm_source=bing&utm_medium=cpc&utm_campaign=CA%20-%20Shopping%20-%20Full&utm_term=4588880503569674&utm_content=Full) | 1,170.00 | 0 | 0 |
 | [110 AC to 24 DC power supply](https://www.amazon.ca/ALITOVE-Transformer-Universal-Regulated-Switching/dp/B078RYWZMH/ref=asc_df_B078RYWZMH?tag=bingshopdesk-20&linkCode=df0&hvadid=80608136757835&hvnetw=o&hvqmt=e&hvbmt=be&hvdev=c&hvlocint=&hvlocphy=&hvtargid=pla-4584207601360514&th=1) | 30.00 | 0 | 0 |
