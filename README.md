@@ -9,7 +9,7 @@
 ## Enhanced solution
 
 
-Option 1 - Managed Switch for 1 camera + PoE injector
+### Option 1 - Managed Switch for 1 camera + PoE injector
 | Item | Unit Price (CAD$) | Qty | Total of the item |
 |----------|----------|----------|----------|
 |  [Nvidia Jetson AGX Nano Super Dev Kit](https://nvdam.widen.net/s/zkfqjmtds2/jetson-orin-datasheet-nano-developer-kit-3575392-r2)   | 360.00   | 1   | 360.00|
@@ -23,7 +23,7 @@ Option 1 - Managed Switch for 1 camera + PoE injector
 |[Cat 8 Ethernet Cable 10FT ](https://www.amazon.ca/UGREEN-Ethernet-Braided-Network-Compatible/dp/B0875SPZC8/ref=sr_1_5?adgrpid=1364496466206655&dib=eyJ2IjoiMSJ9.USfXQPOLSrPWq3tx2t6B84tSaS1B3AwW3RNLTcyUvyq_GAS_F5_i0p1g98UT6TecnzBvmMqovJKLI1OJW22ZX4y3CQ_gg8fEltv4XbaU7bby6r_FUp_k6frLi8K-z7olkbQACSTR0_n-Y5r9t2FjbkdBSkHr1S4kLiTHjVxeiUvn8Ozkw2tR6OpI1f5qD5eUiRHdvS-kRlm2fLRSMbA9qo-tAldN-TKXNlW7CPt0MeR3iFw0XHxxldVAreh7WXOzKlO9muNqvvPMB9A8eOVNZb0_kKEpA4jRZxem6Ymi6pK4ZgLHOMNRnfc67R_d0gZ9FnISfwFC-_7HPSOqX0s25tqeSOxWUgEXW4P4fKbkPQ5EEafx9_X8bg0KP0NAGgfcu5H3GxFHgd7zgcRdCrzTPOBQhWsV4YC5OC6pxCswqzz3X_r1iNBN8aDayLF31MUN.4uLmkOfLOxiw59b4tbgYr2w08_Y4sInnmRJzxL3H-yU&dib_tag=se&hvadid=85281434246349&hvbmt=bp&hvdev=c&hvlocphy=5282&hvnetw=o&hvqmt=p&hvtargid=kwd-85282197646058%3Aloc-32&hydadcr=25166_13658858&keywords=cable%2Blan%2Bethernet&msclkid=0d24172803ed1569967a705edd90a3ac&qid=1735843464&sr=8-5&th=1) | 13.00 | 3 | 39.00 |
 | Overall Total | | | 650.00 |
 
-Option 2 - Managed Switch for 1 camera no PoE injector
+### Option 2 - Managed Switch for 1 camera no PoE injector
 | Item | Unit Price (CAD$) | Qty | Total of the item |
 |----------|----------|----------|----------|
 |  [Nvidia Jetson AGX Nano Super Dev Kit](https://nvdam.widen.net/s/zkfqjmtds2/jetson-orin-datasheet-nano-developer-kit-3575392-r2)   | 360.00   | 1   | 360.00|
@@ -33,3 +33,8 @@ Option 2 - Managed Switch for 1 camera no PoE injector
 |[6-Outlet Flat Plug Power Bar](https://www.amazon.ca/DEWENWILS-Protector-Extension-Protected-Indicator/dp/B094CSMVNN/ref=asc_df_B094CSMVNN?tag=bingshopdesk-20&linkCode=df0&hvadid=80195720972711&hvnetw=o&hvqmt=e&hvbmt=be&hvdev=c&hvlocint=&hvlocphy=&hvtargid=pla-4583795285641124&th=1) | 22.00 | 1 | 22.00 |
 |[Cat 8 Ethernet Cable 10FT ](https://www.amazon.ca/UGREEN-Ethernet-Braided-Network-Compatible/dp/B0875SPZC8/ref=sr_1_5?adgrpid=1364496466206655&dib=eyJ2IjoiMSJ9.USfXQPOLSrPWq3tx2t6B84tSaS1B3AwW3RNLTcyUvyq_GAS_F5_i0p1g98UT6TecnzBvmMqovJKLI1OJW22ZX4y3CQ_gg8fEltv4XbaU7bby6r_FUp_k6frLi8K-z7olkbQACSTR0_n-Y5r9t2FjbkdBSkHr1S4kLiTHjVxeiUvn8Ozkw2tR6OpI1f5qD5eUiRHdvS-kRlm2fLRSMbA9qo-tAldN-TKXNlW7CPt0MeR3iFw0XHxxldVAreh7WXOzKlO9muNqvvPMB9A8eOVNZb0_kKEpA4jRZxem6Ymi6pK4ZgLHOMNRnfc67R_d0gZ9FnISfwFC-_7HPSOqX0s25tqeSOxWUgEXW4P4fKbkPQ5EEafx9_X8bg0KP0NAGgfcu5H3GxFHgd7zgcRdCrzTPOBQhWsV4YC5OC6pxCswqzz3X_r1iNBN8aDayLF31MUN.4uLmkOfLOxiw59b4tbgYr2w08_Y4sInnmRJzxL3H-yU&dib_tag=se&hvadid=85281434246349&hvbmt=bp&hvdev=c&hvlocphy=5282&hvnetw=o&hvqmt=p&hvtargid=kwd-85282197646058%3Aloc-32&hydadcr=25166_13658858&keywords=cable%2Blan%2Bethernet&msclkid=0d24172803ed1569967a705edd90a3ac&qid=1735843464&sr=8-5&th=1) | 13.00 | 3 | 39.00 |
 | Overall Total | | | 713.00 |
+
+### Extra 
+| [Mguard 2102](https://www.mouser.ca/ProductDetail/Phoenix-Contact/1357828?qs=Jm2GQyTW%2FbhXSFWLqWG%252BaA%3D%3D&_gl=1*1fnntd1*_ga*NjI1NjAwMzgyLjE3MzU4NDUwNDQ.*_ga_15W4STQT4T*MTczNTg0NTA0NC4xLjEuMTczNTg0NTA2MS40My4wLjA.) | 1,300.00 | 0 | 0 |
+| [Siemens 6GK561](https://ca.wiautomation.com/en/siemens/industrial-communication/6GK56150AA002AA2?msclkid=5a085c9d10151a5be1083bebf70b8176&utm_source=bing&utm_medium=cpc&utm_campaign=CA%20-%20Shopping%20-%20Full&utm_term=4588880503569674&utm_content=Full) | 1,170.00 | 0 | 0 |
+| [110 AC to 24 DC power supply](https://www.amazon.ca/ALITOVE-Transformer-Universal-Regulated-Switching/dp/B078RYWZMH/ref=asc_df_B078RYWZMH?tag=bingshopdesk-20&linkCode=df0&hvadid=80608136757835&hvnetw=o&hvqmt=e&hvbmt=be&hvdev=c&hvlocint=&hvlocphy=&hvtargid=pla-4584207601360514&th=1) | 30.00 | 0 | 0 |
