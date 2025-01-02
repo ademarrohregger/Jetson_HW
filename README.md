@@ -8,9 +8,9 @@
 
 ## Enhanced solution
 
-| Item | Unit Price | Qty | Total of the item |
+| Item | Unit Price (CAD$) | Qty | Total of the item |
 |----------|----------|----------|----------|
-|  [Nvidia Jetson AGX Nano Super Dev Kit](https://nvdam.widen.net/s/zkfqjmtds2/jetson-orin-datasheet-nano-developer-kit-3575392-r2)   | Row 1B   | Row 1C   | |
+|  [Nvidia Jetson AGX Nano Super Dev Kit](https://nvdam.widen.net/s/zkfqjmtds2/jetson-orin-datasheet-nano-developer-kit-3575392-r2)   | 360.00   | 1   | 360.00|
 | Row 2A   | Row 2B   | Row 2C   | |
 | Row 3A   | Row 3B   | Row 3C   | |
 
