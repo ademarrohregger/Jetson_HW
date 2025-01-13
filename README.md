@@ -70,3 +70,8 @@
 | Item | Unit Price (CAD$) | Qty | Total of the item |
 |----------|----------|----------|----------|
 |  [Nvidia Jetson AGX Nano Super Dev Kit](https://developer.nvidia.com/buy-jetson?product=all&location=CA)   | 360.00   | 5   | 1800.00|
+
+### Extra 3 - For Line automation instead of Dell computer 
+| Item | Unit Price (CAD$) | Qty | Total of the item |
+|----------|----------|----------|----------|
+|  [Nvidia Digits Super computer 1000 trillions operation per sec](https://nvidianews.nvidia.com/news/nvidia-puts-grace-blackwell-on-every-desk-and-at-every-ai-developers-fingertips)   | 4322.00   | 4   | 17,288.00|
