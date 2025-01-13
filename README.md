@@ -46,7 +46,7 @@
 | Overall Total | | | 2,307.00 |
 | Total per camera | | | 576.75 |
 
-### Option 4 - Cisco Managed Switch for 4 cameras no PoE injector (IT suggestion
+### Option 4 - Cisco Managed Switch for 4 cameras no PoE injector (IT suggestion)
 | Item | Unit Price (CAD$) | Qty | Total of the item |
 |----------|----------|----------|----------|
 |  [Nvidia Jetson AGX Nano Super Dev Kit](https://nvdam.widen.net/s/zkfqjmtds2/jetson-orin-datasheet-nano-developer-kit-3575392-r2)   | 360.00   | 4   | 1440.00|
