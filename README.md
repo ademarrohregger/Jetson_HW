@@ -12,7 +12,7 @@
 ### Option 1 - Managed Switch for 1 camera + PoE injector
 | Item | Unit Price (CAD$) | Qty | Total of the item |
 |----------|----------|----------|----------|
-|  [Nvidia Jetson AGX Nano Super Dev Kit](https://nvdam.widen.net/s/zkfqjmtds2/jetson-orin-datasheet-nano-developer-kit-3575392-r2)   | 360.00   | 1   | 360.00|
+|  [Nvidia Jetson AGX Nano Super Dev Kit](https://developer.nvidia.com/buy-jetson?product=all&location=CA)   | 360.00   | 1   | 360.00|
 | [NVMe SSD 512GB M.2 SSD PCIe 3.0×4](https://www.amazon.ca/dp/B0D9YBH157/ref=sspa_dk_detail_6?pf_rd_p=516c2169-755e-413a-a38a-68230f4ab66f&pf_rd_r=M5ZRRS0RDDP1TEDCX5EC&pd_rd_wg=MUp2r&pd_rd_w=zkIgV&content-id=amzn1.sym.516c2169-755e-413a-a38a-68230f4ab66f&pd_rd_r=5ba9e9e4-bc3a-4902-b539-4e7e96905fd4&s=pc&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWw&th=1)   | 48.00   | 1 | 48.00|
 | [PoE Injector](https://www.amazon.ca/PLUSPOE-Injector-Ethernet-Adapter-Security/dp/B077QGTDLB/ref=asc_df_B077QGTDLB?tag=bingshopdesk-20&linkCode=df0&hvadid=79989562644600&hvnetw=o&hvqmt=e&hvbmt=be&hvdev=c&hvlocint=&hvlocphy=&hvtargid=pla-4583589127526849&psc=1)   | 17.00   | 1  | 17.00 |
 | [5-port manged switch - Netgear](https://www.amazon.ca/NETGEAR-Ethernet-Manageable-Affordable-Connectivity/dp/B07PJ7XZ7X/ref=asc_df_B07PJ7XZ7X?tag=bingshopdesk-20&linkCode=df0&hvadid=80333159863507&hvnetw=o&hvqmt=e&hvbmt=be&hvdev=c&hvlocint=&hvlocphy=&hvtargid=pla-4583932704892960&psc=1) | 30.00 | 1 | 30.00 |
@@ -26,7 +26,7 @@
 ### Option 2 - Managed Switch for 1 camera no PoE injector
 | Item | Unit Price (CAD$) | Qty | Total of the item |
 |----------|----------|----------|----------|
-|  [Nvidia Jetson AGX Nano Super Dev Kit](https://nvdam.widen.net/s/zkfqjmtds2/jetson-orin-datasheet-nano-developer-kit-3575392-r2)   | 360.00   | 1   | 360.00|
+|  [Nvidia Jetson AGX Nano Super Dev Kit](https://developer.nvidia.com/buy-jetson?product=all&location=CA)   | 360.00   | 1   | 360.00|
 | [NVMe SSD 512GB M.2 SSD PCIe 3.0×4](https://www.amazon.ca/dp/B0D9YBH157/ref=sspa_dk_detail_6?pf_rd_p=516c2169-755e-413a-a38a-68230f4ab66f&pf_rd_r=M5ZRRS0RDDP1TEDCX5EC&pd_rd_wg=MUp2r&pd_rd_w=zkIgV&content-id=amzn1.sym.516c2169-755e-413a-a38a-68230f4ab66f&pd_rd_r=5ba9e9e4-bc3a-4902-b539-4e7e96905fd4&s=pc&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWw&th=1)   | 48.00   | 1 | 48.00|
 | [5-port managed switch w PoE - Netgear](https://www.amazon.ca/NETGEAR-5-Port-Gigabit-Managed-GS305EP/dp/B08LR18SC4/ref=asc_df_B08LR18SC4?tag=bingshopdesk-20&linkCode=df0&hvadid=80333159862984&hvnetw=o&hvqmt=e&hvbmt=be&hvdev=c&hvlocint=&hvlocphy=&hvtargid=pla-4583932714220137&th=1) | 110.00 | 1 | 110.00 |
 | [Steel Electrical Box 20'' x 12'' x 10'' Electrical Enclosure Box](https://www.vevor.ca/electrical-enclosure-c_10749/vevor-steel-electrical-box-electrical-enclosure-box-20x12x10-carbon-steel-ip65-p_010274228513?adp=gmc&msclkid=c4aac278847c18506db8a50e592df290&utm_campaign=PLA-All%E4%B8%AD-CA-Electrical-Level%201-API-ECPC-20230801-zw&utm_content=Ad%20group%20%231&utm_id=603275131&utm_medium=cpc&utm_source=bing&utm_term=4587780995507662&utm_skip=google_one_tap_status_1) | 134.00 | 1 | 134.00 |
@@ -37,7 +37,7 @@
 ### Option 3 - Managed Switch for 4 cameras no PoE injector
 | Item | Unit Price (CAD$) | Qty | Total of the item |
 |----------|----------|----------|----------|
-|  [Nvidia Jetson AGX Nano Super Dev Kit](https://nvdam.widen.net/s/zkfqjmtds2/jetson-orin-datasheet-nano-developer-kit-3575392-r2)   | 360.00   | 4   | 1440.00|
+|  [Nvidia Jetson AGX Nano Super Dev Kit](https://developer.nvidia.com/buy-jetson?product=all&location=CA)   | 360.00   | 4   | 1440.00|
 | [NVMe SSD 512GB M.2 SSD PCIe 3.0×4](https://www.amazon.ca/dp/B0D9YBH157/ref=sspa_dk_detail_6?pf_rd_p=516c2169-755e-413a-a38a-68230f4ab66f&pf_rd_r=M5ZRRS0RDDP1TEDCX5EC&pd_rd_wg=MUp2r&pd_rd_w=zkIgV&content-id=amzn1.sym.516c2169-755e-413a-a38a-68230f4ab66f&pd_rd_r=5ba9e9e4-bc3a-4902-b539-4e7e96905fd4&s=pc&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWw&th=1)   | 48.00   | 4 | 192.00 |
 | [5-port managed switch w PoE - Netgear](https://www.amazon.ca/NETGEAR-5-Port-Gigabit-Managed-GS305EP/dp/B08LR18SC4/ref=asc_df_B08LR18SC4?tag=bingshopdesk-20&linkCode=df0&hvadid=80333159862984&hvnetw=o&hvqmt=e&hvbmt=be&hvdev=c&hvlocint=&hvlocphy=&hvtargid=pla-4583932714220137&th=1) | 110.00 | 2 | 220.00 |
 | [Wall mounted steel enclosure, Spacial S3D, plain door, with mounting plate, 800x600x250mm](https://ca.wiautomation.com/en/schneider-electric/general-automation/nsys3d8625p-schneider-electric?msclkid=1580464dd4101f578039213b25a8e81a&utm_source=bing&utm_medium=cpc&utm_campaign=CA%20-%20Shopping%20-%20Full&utm_term=4588880503569656&utm_content=Full) | 275.00 | 1 | 275.00 |
@@ -49,7 +49,7 @@
 ### Option 4 - Cisco Managed Switch for 4 cameras no PoE injector (IT suggestion)
 | Item | Unit Price (CAD$) | Qty | Total of the item |
 |----------|----------|----------|----------|
-|  [Nvidia Jetson AGX Nano Super Dev Kit](https://nvdam.widen.net/s/zkfqjmtds2/jetson-orin-datasheet-nano-developer-kit-3575392-r2)   | 360.00   | 4   | 1440.00|
+|  [Nvidia Jetson AGX Nano Super Dev Kit](https://developer.nvidia.com/buy-jetson?product=all&location=CA)   | 360.00   | 4   | 1440.00|
 | [NVMe SSD 512GB M.2 SSD PCIe 3.0×4](https://www.amazon.ca/dp/B0D9YBH157/ref=sspa_dk_detail_6?pf_rd_p=516c2169-755e-413a-a38a-68230f4ab66f&pf_rd_r=M5ZRRS0RDDP1TEDCX5EC&pd_rd_wg=MUp2r&pd_rd_w=zkIgV&content-id=amzn1.sym.516c2169-755e-413a-a38a-68230f4ab66f&pd_rd_r=5ba9e9e4-bc3a-4902-b539-4e7e96905fd4&s=pc&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWw&th=1)   | 48.00   | 4 | 192.00 |
 | [8-port + 2 SFP managed switch w PoE - Cisco](https://www.amazon.com/dp/B097CK8XX3?ref=emc_s_m_5_i_atc&th=1) | 250.00 | 1 | 250.00 |
 | [Cisco® GLC-T Compatible 1000BASE-T SFP Copper RJ45 Transceiver](https://www.primecables.ca/p-367952-cab-tr-glc-t-cisco-glc-t-compatible-1000base-t-sfp-copper-rj45-transceiver?from_pla=google&sku=379856&gad_source=1&gclid=CjwKCAiAp4O8BhAkEiwAqv2UqBTAZp7s5wnGuz7LudV2pP5adY_DOKmffqFwIYzIyqLBNo-NJRulZRoCIbkQAvD_BwE#sku379856) | 38.00 | 2 | 76.00|
