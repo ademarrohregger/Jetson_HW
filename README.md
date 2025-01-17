@@ -46,7 +46,7 @@
 | Overall Total | | | 2,327.00 |
 | Total per camera | | | 581.75 |
 
-### Option 4 - Cisco Managed Switch for 4 cameras with PoE injector integrated (IT suggestion)
+### Option 4 - Cisco Managed Switch for 1 camera (expandable until 4 cameras) with PoE injector integrated (IT suggestion)
 | Item | Unit Price (CAD$) | Qty | Total of the item |
 |----------|----------|----------|----------|
 |  [Nvidia Jetson AGX Nano Super Dev Kit](https://developer.nvidia.com/buy-jetson?product=all&location=CA)   | 360.00   | 1   | 360.00|
@@ -55,8 +55,8 @@
 | [Wall mounted steel enclosure, Spacial S3D, plain door, with mounting plate, 800x600x250mm](https://ca.wiautomation.com/en/schneider-electric/general-automation/nsys3d8625p-schneider-electric?msclkid=1580464dd4101f578039213b25a8e81a&utm_source=bing&utm_medium=cpc&utm_campaign=CA%20-%20Shopping%20-%20Full&utm_term=4588880503569656&utm_content=Full) | 275.00 | 1 | 275.00 |
 |[6-Outlet Flat Plug Power Bar](https://www.amazon.ca/DEWENWILS-Protector-Extension-Protected-Indicator/dp/B094CSMVNN/ref=asc_df_B094CSMVNN?tag=bingshopdesk-20&linkCode=df0&hvadid=80195720972711&hvnetw=o&hvqmt=e&hvbmt=be&hvdev=c&hvlocint=&hvlocphy=&hvtargid=pla-4583795285641124&th=1) | 22.00 | 1 | 22.00 |
 |[Cat 8 Ethernet Cable 10FT ](https://www.amazon.ca/UGREEN-Ethernet-Braided-Network-Compatible/dp/B0875SPZC8/ref=sr_1_5?adgrpid=1364496466206655&dib=eyJ2IjoiMSJ9.USfXQPOLSrPWq3tx2t6B84tSaS1B3AwW3RNLTcyUvyq_GAS_F5_i0p1g98UT6TecnzBvmMqovJKLI1OJW22ZX4y3CQ_gg8fEltv4XbaU7bby6r_FUp_k6frLi8K-z7olkbQACSTR0_n-Y5r9t2FjbkdBSkHr1S4kLiTHjVxeiUvn8Ozkw2tR6OpI1f5qD5eUiRHdvS-kRlm2fLRSMbA9qo-tAldN-TKXNlW7CPt0MeR3iFw0XHxxldVAreh7WXOzKlO9muNqvvPMB9A8eOVNZb0_kKEpA4jRZxem6Ymi6pK4ZgLHOMNRnfc67R_d0gZ9FnISfwFC-_7HPSOqX0s25tqeSOxWUgEXW4P4fKbkPQ5EEafx9_X8bg0KP0NAGgfcu5H3GxFHgd7zgcRdCrzTPOBQhWsV4YC5OC6pxCswqzz3X_r1iNBN8aDayLF31MUN.4uLmkOfLOxiw59b4tbgYr2w08_Y4sInnmRJzxL3H-yU&dib_tag=se&hvadid=85281434246349&hvbmt=bp&hvdev=c&hvlocphy=5282&hvnetw=o&hvqmt=p&hvtargid=kwd-85282197646058%3Aloc-32&hydadcr=25166_13658858&keywords=cable%2Blan%2Bethernet&msclkid=0d24172803ed1569967a705edd90a3ac&qid=1735843464&sr=8-5&th=1) | 13.00 | 4 | 52.00 |
-| Overall Total | | | 2,433.00 |
-| Total per camera | | | 608.25 |
+| Overall Total | | | 891.00 |
+| Total per camera | | | 891.00 |
 
 
 ### Extra 1 - Non mandatory
