@@ -75,3 +75,10 @@
 | Item | Unit Price (CAD$) | Qty | Total of the item |
 |----------|----------|----------|----------|
 |  [Nvidia Digits Super computer 1000 trillions operation per sec](https://nvidianews.nvidia.com/news/nvidia-puts-grace-blackwell-on-every-desk-and-at-every-ai-developers-fingertips)   | 4322.00   | 4   | 17,288.00|
+
+### Extra 4 - Light Line  for stop sign boundary 
+| Item | Unit Price (CAD$) | Qty | Total of the item |
+|----------|----------|----------|----------|
+|  [Eco Lines 80 Virtual Line Projector Yellow 90 Degrees](https://www.thegobo.com/eco-lines-80-virtual-line-projector.html)   | 591.40   | 3   | 1,774.20|
+
+
