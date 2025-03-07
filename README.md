@@ -47,9 +47,9 @@
 | Total per camera | | | 581.75 |
 
 ### Option 4 - Cisco Managed Switch for 1 camera (expandable until 4 cameras) with PoE injector integrated (IT suggestion)
-| Item | Unit Price (CAD$) | Qty | Total of the item |
-|----------|----------|----------|----------|
-|  [Nvidia Jetson AGX Nano Super Dev Kit](https://developer.nvidia.com/buy-jetson?product=all&location=CA)   | 360.00   | 1   | 360.00|
+| Item | Unit Price (CAD$) | Qty | Total of the item | Total Arrived |
+|----------|----------|----------|----------|-----------|
+|  [Nvidia Jetson AGX Nano Super Dev Kit](https://developer.nvidia.com/buy-jetson?product=all&location=CA)   | 360.00   | 1   | 360.00| 
 | [NVMe SSD 512GB M.2 SSD PCIe 3.0×4](https://www.amazon.ca/dp/B0D9YBH157/ref=sspa_dk_detail_6?pf_rd_p=516c2169-755e-413a-a38a-68230f4ab66f&pf_rd_r=M5ZRRS0RDDP1TEDCX5EC&pd_rd_wg=MUp2r&pd_rd_w=zkIgV&content-id=amzn1.sym.516c2169-755e-413a-a38a-68230f4ab66f&pd_rd_r=5ba9e9e4-bc3a-4902-b539-4e7e96905fd4&s=pc&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWw&th=1)   | 48.00   | 1 | 48.00 |
 | [8-port + 2 SFP managed switch w PoE - Cisco](https://www.amazon.com/dp/B097CK8XX3?ref=emc_s_m_5_i_atc&th=1) | 173.00 | 1 | 173.00 |
 | [Wall mounted steel enclosure, Spacial S3D, plain door, with mounting plate, 800x600x250mm](https://ca.wiautomation.com/en/schneider-electric/general-automation/nsys3d8625p-schneider-electric?msclkid=1580464dd4101f578039213b25a8e81a&utm_source=bing&utm_medium=cpc&utm_campaign=CA%20-%20Shopping%20-%20Full&utm_term=4588880503569656&utm_content=Full) | 275.00 | 1 | 275.00 |
